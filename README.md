@@ -1,2 +1,2 @@
 # obucomputing
-Version Control for GNSC-3301
+Version Control Repository for GNSC-3301
